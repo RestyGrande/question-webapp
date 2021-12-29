@@ -32,7 +32,7 @@ body {
   width: 50%;
 }
 .contact-form .form-control {
-  border-radius: 1.5rem;
+  border-radius: 1rem;
 }
 .contact-image {
   text-align: center;
