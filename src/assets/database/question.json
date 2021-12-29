@@ -1,0 +1,507 @@
+{
+  "questions": [
+    {
+      "categoryId": "-mathquestion",
+      "title": "Find the sum of 111 + 222 + 333",
+      "answer": { "id": "B", "ans": "666" },
+      "id": "-mquestion1",
+      "choices": [
+        { "id": "A", "ans": "700" },
+        { "id": "B", "ans": "666" },
+        { "id": "C", "ans": "10" },
+        { "id": "D", "ans": "100" }
+      ]
+    },
+    {
+      "categoryId": "-mathquestion",
+      "title": " Subtract 457 from 832",
+      "answer": { "id": "A", "ans": "375" },
+      "id": "-mquestion2",
+      "choices": [
+        { "id": "A", "ans": "375" },
+        { "id": "B", "ans": "57" },
+        { "id": "C", "ans": "376" },
+        { "id": "D", "ans": "970" }
+      ]
+    },
+    {
+      "categoryId": "-mathquestion",
+      "title": "  50 times 5 is equal to",
+      "answer": { "id": "D", "ans": "None of these" },
+      "id": "-mquestion3",
+      "choices": [
+        { "id": "A", "ans": "2500" },
+        { "id": "B", "ans": "505" },
+        { "id": "C", "ans": "500" },
+        { "id": "D", "ans": "None of these" }
+      ]
+    },
+    {
+      "categoryId": "-mathquestion",
+      "title": " 90 ÷ 10",
+      "answer": { "id": "A", "ans": "9" },
+      "id": "-mquestion4",
+      "choices": [
+        { "id": "A", "ans": "9" },
+        { "id": "B", "ans": "10" },
+        { "id": "C", "ans": "900" },
+        { "id": "D", "ans": "1" }
+      ]
+    },
+    {
+      "categoryId": "-mathquestion",
+      "title": " Simplify: 26 + 32 - 12",
+      "answer": { "id": "A", "ans": "10" },
+      "id": "-mquestion5",
+      "choices": [
+        { "id": "A", "ans": "10" },
+        { "id": "B", "ans": "32" },
+        { "id": "C", "ans": "56" },
+        { "id": "D", "ans": "46" }
+      ]
+    },
+    {
+      "categoryId": "-mathquestion",
+      "title": " Find the product of 72 × 3",
+      "answer": { "id": "A", "ans": "216" },
+      "id": "-mquestion6",
+      "choices": [
+        { "id": "A", "ans": "216" },
+        { "id": "B", "ans": "7230" },
+        { "id": "C", "ans": "106" },
+        { "id": "D", "ans": "372" }
+      ]
+    },
+    {
+      "categoryId": "-mathquestion",
+      "title": "  Solve : 200 – (96 ÷ 4)",
+      "answer": { "id": "B", "ans": "176" },
+      "id": "-mquestion7",
+      "choices": [
+        { "id": "A", "ans": "105" },
+        { "id": "B", "ans": "176" },
+        { "id": "C", "ans": "26" },
+        { "id": "D", "ans": "16" }
+      ]
+    },
+    {
+      "categoryId": "-mathquestion",
+      "title": "   Solve : 24 + 4 ÷ 4",
+      "answer": { "id": "A", "ans": "25" },
+      "id": "-mquestion8",
+      "choices": [
+        { "id": "A", "ans": "25" },
+        { "id": "B", "ans": "6" },
+        { "id": "C", "ans": "28" },
+        { "id": "D", "ans": "7" }
+      ]
+    },
+    {
+      "categoryId": "-mathquestion",
+      "title": "  Simplify : 3 + 6 x (5 + 4) ÷ 3 - 7",
+      "answer": { "id": "C", "ans": "14" },
+      "id": "-mquestion9",
+      "choices": [
+        { "id": "A", "ans": "11" },
+        { "id": "B", "ans": "16" },
+        { "id": "C", "ans": "14" },
+        { "id": "D", "ans": "15" }
+      ]
+    },
+    {
+      "categoryId": "-mathquestion",
+      "title": "  Simplify :150 ÷ (6 + 3 x 8) - 5",
+      "answer": { "id": "C", "ans": "0" },
+      "id": "-mquestion10",
+      "choices": [
+        { "id": "A", "ans": "2" },
+        { "id": "B", "ans": "5" },
+        { "id": "C", "ans": "0" },
+        { "id": "D", "ans": "None of these" }
+      ]
+    },
+    {
+      "categoryId": "-sciencequestion",
+      "title": "Brass gets discoloured in air because of the presence of which of the following gases in air?",
+      "answer": { "id": "B", "ans": "Hydrogen sulphide" },
+      "id": "-squestion1",
+      "choices": [
+        { "id": "A", "ans": "Oxygen" },
+        { "id": "B", "ans": "Hydrogen sulphide" },
+        { "id": "C", "ans": "Carbon dioxide" },
+        { "id": "D", "ans": "Nitrogen" }
+      ]
+    },
+    {
+      "categoryId": "-sciencequestion",
+      "title": "Which of the following is a non metal that remains liquid at room temperature?",
+      "answer": { "id": "B", "ans": "Bromine" },
+      "id": "-squestion2",
+      "choices": [
+        { "id": "A", "ans": "Phosphorous" },
+        { "id": "B", "ans": "Bromine" },
+        { "id": "C", "ans": "Chlorine" },
+        { "id": "D", "ans": "Helium" }
+      ]
+    },
+    {
+      "categoryId": "-sciencequestion",
+      "title": "Chlorophyll is a naturally occurring chelate compound in which central metal is",
+      "answer": { "id": "B", "ans": "Magnesium" },
+      "id": "-squestion3",
+      "choices": [
+        { "id": "A", "ans": "Copper" },
+        { "id": "B", "ans": "Magnesium" },
+        { "id": "C", "ans": "Iron" },
+        { "id": "D", "ans": "Calcium" }
+      ]
+    },
+    {
+      "categoryId": "-sciencequestion",
+      "title": "Which of the following is used in pencils?",
+      "answer": { "id": "A", "ans": "Graphite" },
+      "id": "-squestion4",
+      "choices": [
+        { "id": "A", "ans": "Graphite" },
+        { "id": "B", "ans": "Silicon" },
+        { "id": "C", "ans": "Charcoal" },
+        { "id": "D", "ans": "Phosphorous" }
+      ]
+    },
+    {
+      "categoryId": "-sciencequestion",
+      "title": "Which of the following metals forms an amalgam with other metals?",
+      "answer": { "id": "B", "ans": "Mercury" },
+      "id": "-squestion5",
+      "choices": [
+        { "id": "A", "ans": "Tin" },
+        { "id": "B", "ans": "Mercury" },
+        { "id": "C", "ans": "Lead" },
+        { "id": "D", "ans": "Zinc" }
+      ]
+    },
+    {
+      "categoryId": "-sciencequestion",
+      "title": "Chemical formula for water is",
+      "answer": { "id": "B", "ans": "H2O" },
+      "id": "-squestion6",
+      "choices": [
+        { "id": "A", "ans": "NaAlO2" },
+        { "id": "B", "ans": "H2O" },
+        { "id": "C", "ans": "Al2O3" },
+        { "id": "D", "ans": "CaSiO3" }
+      ]
+    },
+    {
+      "categoryId": "-sciencequestion",
+      "title": "The gas usually filled in the electric bulb is",
+      "answer": { "id": "A", "ans": "Nitrogen" },
+      "id": "-squestion7",
+      "choices": [
+        { "id": "A", "ans": "Nitrogen" },
+        { "id": "B", "ans": "Hydrogen" },
+        { "id": "C", "ans": "Carbon dioxide" },
+        { "id": "D", "ans": "Oxygen" }
+      ]
+    },
+    {
+      "categoryId": "-sciencequestion",
+      "title": "Washing soda is the common name for",
+      "answer": { "id": "A", "ans": "Sodium carbonate" },
+      "id": "-squestion8",
+      "choices": [
+        { "id": "A", "ans": "Sodium carbonate" },
+        { "id": "B", "ans": "Calcium bicarbonate" },
+        { "id": "C", "ans": "Sodium bicarbonate" },
+        { "id": "D", "ans": "Calcium carbonate" }
+      ]
+    },
+    {
+      "categoryId": "-sciencequestion",
+      "title": "Quartz crystals normally used in quartz clocks etc. is chemically",
+      "answer": { "id": "A", "ans": "Silicon dioxide" },
+      "id": "-squestion9",
+      "choices": [
+        { "id": "A", "ans": "Silicon dioxide" },
+        { "id": "B", "ans": "Germanium oxide" },
+        {
+          "id": "C",
+          "ans": "A mixture of germanium oxide and silicon dioxide"
+        },
+        { "id": "D", "ans": "Sodium silicate" }
+      ]
+    },
+    {
+      "categoryId": "-sciencequestion",
+      "title": "Which of the gas is not known as green house gas?",
+      "answer": { "id": "D", "ans": "Hydrogen" },
+      "id": "-squestion10",
+      "choices": [
+        { "id": "A", "ans": "Methane" },
+        { "id": "B", "ans": "Nitrous oxide" },
+        { "id": "C", "ans": "Carbon dioxide" },
+        { "id": "D", "ans": "Hydrogen" }
+      ]
+    },
+    {
+      "categoryId": "-englishquestion",
+      "title": "I _______ tennis every Sunday morning.",
+      "answer": { "id": "B", "ans": "play" },
+      "id": "-equestion1",
+      "choices": [
+        { "id": "A", "ans": "playing" },
+        { "id": "B", "ans": "play" },
+        { "id": "C", "ans": "am playing" },
+        { "id": "D", "ans": "am play" }
+      ]
+    },
+    {
+      "categoryId": "-englishquestion",
+      "title": "Don't make so much noise. Noriko _________ to study for her ESL test!",
+      "answer": { "id": "D", "ans": "is trying" },
+      "id": "-equestion2",
+      "choices": [
+        { "id": "A", "ans": "try" },
+        { "id": "B", "ans": "tries" },
+        { "id": "C", "ans": "tried" },
+        { "id": "D", "ans": "is trying" }
+      ]
+    },
+    {
+      "categoryId": "-englishquestion",
+      "title": "Jun-Sik _______ his teeth before breakfast every morning.",
+      "answer": { "id": "B", "ans": "cleans" },
+      "id": "-equestion3",
+      "choices": [
+        { "id": "A", "ans": "will cleaned" },
+        { "id": "B", "ans": "cleans" },
+        { "id": "C", "ans": "is cleaning" },
+        { "id": "D", "ans": "clean" }
+      ]
+    },
+    {
+      "categoryId": "-englishquestion",
+      "title": "Sorry, she can't come to the phone. She _______ a bath!",
+      "answer": { "id": "A", "ans": "is having" },
+      "id": "-equestion4",
+      "choices": [
+        { "id": "A", "ans": "is having" },
+        { "id": "B", "ans": "having" },
+        { "id": "C", "ans": "have" },
+        { "id": "D", "ans": "has" }
+      ]
+    },
+    {
+      "categoryId": "-englishquestion",
+      "title": "______ many times every winter in Frankfurt.",
+      "answer": { "id": "A", "ans": "It snows" },
+      "id": "-equestion5",
+      "choices": [
+        { "id": "A", "ans": "It snows" },
+        { "id": "B", "ans": "It snowed" },
+        { "id": "C", "ans": "It is snowing" },
+        { "id": "D", "ans": "It is snow" }
+      ]
+    },
+    {
+      "categoryId": "-englishquestion",
+      "title": "How many students in your class ____ from Korea?",
+      "answer": { "id": "B", "ans": "come" },
+      "id": "-equestion6",
+      "choices": [
+        { "id": "A", "ans": "comes" },
+        { "id": "B", "ans": "come" },
+        { "id": "C", "ans": "came" },
+        { "id": "D", "ans": "are coming" }
+      ]
+    },
+    {
+      "categoryId": "-englishquestion",
+      "title": "Weather report: 'It's seven o'clock in Frankfurt and _______ .'",
+      "answer": { "id": "B", "ans": "it`s snowing" },
+      "id": "-equestion7",
+      "choices": [
+        { "id": "A", "ans": "there is snow" },
+        { "id": "B", "ans": "it`s snowing" },
+        { "id": "C", "ans": "it snows" },
+        { "id": "D", "ans": "it snowed" }
+      ]
+    },
+    {
+      "categoryId": "-englishquestion",
+      "title": "Babies ____ when they are hungry.",
+      "answer": { "id": "A", "ans": "cry" },
+      "id": "-equestion8",
+      "choices": [
+        { "id": "A", "ans": "cry" },
+        { "id": "B", "ans": "cries" },
+        { "id": "C", "ans": "cried" },
+        { "id": "D", "ans": "are crying" }
+      ]
+    },
+    {
+      "categoryId": "-englishquestion",
+      "title": "Jane: 'What ________ in the evenings?' Mary: 'Usually I watch TV or read a book.'",
+      "answer": { "id": "C", "ans": "do you do" },
+      "id": "-equestion9",
+      "choices": [
+        { "id": "A", "ans": "you doing" },
+        { "id": "B", "ans": "you do" },
+        { "id": "C", "ans": "do you do" },
+        { "id": "D", "ans": "are you doing" }
+      ]
+    },
+    {
+      "categoryId": "-englishquestion",
+      "title": "Jane ______  her blue jeans today, but usually she wears a skirt or a dress.",
+      "answer": { "id": "B", "ans": "wearing" },
+      "id": "-equestion10",
+      "choices": [
+        { "id": "A", "ans": "wears" },
+        { "id": "B", "ans": "wearing" },
+        { "id": "C", "ans": "wear" },
+        { "id": "D", "ans": "is wearing" }
+      ]
+    },
+    {
+      "categoryId": "-filipino",
+      "title": "Ito ay isang sangay ng linggwistika na sumasaklaw sa pag-aaral ng kayarian o istruktura ng salita.",
+      "answer": { "id": "B", "ans": "Morpolohiya" },
+      "id": "-fquestion1",
+      "choices": [
+        { "id": "A", "ans": "Ortograpiya" },
+        { "id": "B", "ans": "Morpolohiya" },
+        { "id": "C", "ans": "Semantika" },
+        { "id": "D", "ans": "Sintaks" }
+      ]
+    },
+    {
+      "categoryId": "-filipino",
+      "title": "“Lumilindol.” Anong uri ito ng pangungusap na walang tiyak na paksa?",
+      "answer": { "id": "C", "ans": "Penomenal" },
+      "id": "-fquestion2",
+      "choices": [
+        { "id": "A", "ans": "Temporal" },
+        { "id": "B", "ans": "Eksistensyal" },
+        { "id": "C", "ans": "Penomenal" },
+        { "id": "D", "ans": "Modal" }
+      ]
+    },
+    {
+      "categoryId": "-filipino",
+      "title": "Ibigay ang panlapi na ginamit sa mga sumusunod na salita: kaligayahan, pagmamahalan, pagkatiwalaan",
+      "answer": { "id": "C", "ans": "Kabilaan" },
+      "id": "-fquestion3",
+      "choices": [
+        { "id": "A", "ans": "Hulapi" },
+        { "id": "B", "ans": "Tambalan" },
+        { "id": "C", "ans": "Kabilaan" },
+        { "id": "D", "ans": "Laguhan" }
+      ]
+    },
+    {
+      "categoryId": "-filipino",
+      "title": "Anong bantas ang siyang inilalagay sa pagitan ng unlaping “ika” at “tambilang”?",
+      "answer": { "id": "D", "ans": "Gitling" },
+      "id": "-fquestion4",
+      "choices": [
+        { "id": "A", "ans": "Tuldok" },
+        { "id": "B", "ans": "Panaklong" },
+        { "id": "C", "ans": "Kuwit" },
+        { "id": "D", "ans": "Gitling" }
+      ]
+    },
+    {
+      "categoryId": "-filipino",
+      "title": "Ayon kay Gleason, ang wika ay pinagkakasunduan ng isang lahi at kaya naman ay naunawaan ng lahat ng kasapi ng lahi.",
+      "answer": { "id": "D", "ans": "Arbitraryo" },
+      "id": "-fquestion5",
+      "choices": [
+        { "id": "A", "ans": "Masistema" },
+        { "id": "B", "ans": "Dinamiko" },
+        { "id": "C", "ans": "Likas" },
+        { "id": "D", "ans": "Arbitraryo" }
+      ]
+    },
+    {
+      "categoryId": "-filipino",
+      "title": "Isang akda ni Padre Modesto de Castro na binubuo ng palitan ng liham ng dalawang magkapatid.",
+      "answer": { "id": "B", "ans": "Barlaan at Josaphat" },
+      "id": "-fquestion6",
+      "choices": [
+        { "id": "A", "ans": "Urbana at Feliza" },
+        { "id": "B", "ans": "Barlaan at Josaphat" },
+        { "id": "C", "ans": "Dasalan at Tocsohan" },
+        { "id": "D", "ans": "Indarapatra at Sulayman" }
+      ]
+    },
+    {
+      "categoryId": "-filipino",
+      "title": "Anong teorya ng wika ang nagsasabing ang wika ay nailikha bunga ng masidhing damdamin ng tao?",
+      "answer": { "id": "B", "ans": "Pooh-pooh" },
+      "id": "-fquestion7",
+      "choices": [
+        { "id": "A", "ans": "Bow-wow" },
+        { "id": "B", "ans": "Pooh-pooh" },
+        { "id": "C", "ans": "Ding-dong" },
+        { "id": "D", "ans": "Yoheho" }
+      ]
+    },
+    {
+      "categoryId": "-filipino",
+      "title": "“Nahulog ang bata!” Anong uri ng pangungusap ayon sa kayarian ang pangungusap na ito?",
+      "answer": { "id": "C", "ans": "Payak" },
+      "id": "-fquestion8",
+      "choices": [
+        { "id": "A", "ans": "Padamdam" },
+        { "id": "B", "ans": "Pasalaysay" },
+        { "id": "C", "ans": "Payak" },
+        { "id": "D", "ans": "Tambalan" }
+      ]
+    },
+    {
+      "categoryId": "-filipino",
+      "title": "Sa ponemang segmental, ano ang tinataglay ng mga salitang galaw, baliw, lamay, kahoy?",
+      "answer": { "id": "C", "ans": "Diptonggo" },
+      "id": "-fquestion9",
+      "choices": [
+        { "id": "A", "ans": "Ponema" },
+        { "id": "B", "ans": "Klaster" },
+        { "id": "C", "ans": "Diptonggo" },
+        { "id": "D", "ans": "Pares minimal" }
+      ]
+    },
+    {
+      "categoryId": "-filipino",
+      "title": "Sa kasaysayan ng ating panitikan, ang kinikilalang Gintong Panahon ng Panitikan ng Pilipinas ay ang panahon ng ______",
+      "answer": { "id": "B", "ans": "Hapones" },
+      "id": "-fquestion9",
+      "choices": [
+        { "id": "A", "ans": "Amerikano" },
+        { "id": "B", "ans": "Hapones" },
+        { "id": "C", "ans": "Kastila" },
+        { "id": "D", "ans": "Kontemporaryo" }
+      ]
+    }
+  ],
+  "exam": [],
+  "student": [{ "id": "guest", "score": 0 }],
+  "categories": [
+    {
+      "id": "-mathquestion",
+      "name": "Math"
+    },
+    {
+      "id": "-englishquestion",
+      "name": "English"
+    },
+    {
+      "id": "-sciencequestion",
+      "name": "Science"
+    },
+    {
+      "id": "-filipino",
+      "name": "Filipino"
+    }
+  ]
+}
