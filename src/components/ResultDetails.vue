@@ -95,4 +95,7 @@ export default {
 th {
   text-align: center;
 }
+table {
+  color: #fff;
+}
 </style>

@@ -55,10 +55,12 @@ export default {
 
 <style scoped>
 .form-control:hover {
-  background-color: aqua;
+  background-color: rgb(29, 37, 37);
+  color: aqua;
 }
 .form-control:focus {
-  background-color: aqua;
+  background-color: rgb(29, 37, 37);
+  color: aqua;
 }
 span {
   float: left;
