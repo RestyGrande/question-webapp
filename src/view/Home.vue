@@ -23,7 +23,8 @@ export default {
 
 <style>
 body {
-  background: -webkit-linear-gradient(left, #0072ff, #00c6ff);
+  background: -webkit-linear-gradient(left, #ff0077, #940e6c);
+  /* background: -webkit-linear-gradient(left, #0072ff, #00c6ff); */
 }
 .contact-form {
   background: #fff;
