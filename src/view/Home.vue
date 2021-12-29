@@ -23,10 +23,10 @@ export default {
 
 <style>
 body {
-  background: -webkit-linear-gradient(left, #0072ff, #00c6ff);
+  background: -webkit-linear-gradient(left, #292727, #232829);
 }
 .contact-form {
-  background: #fff;
+  background: rgb(17, 15, 15);
   margin-top: 10%;
   margin-bottom: 5%;
   width: 50%;
@@ -53,7 +53,7 @@ body {
   margin-bottom: 8%;
   margin-top: -10%;
   text-align: center;
-  color: #0062cc;
+  color: #c2ccd6;
 }
 .contact-form .btnContact {
   width: 50%;
@@ -62,7 +62,7 @@ body {
   padding: 1.5%;
   background: #dc3545;
   font-weight: 600;
-  color: #fff;
+  color: rgb(211, 202, 202);
   cursor: pointer;
 }
 .btnContactSubmit {
