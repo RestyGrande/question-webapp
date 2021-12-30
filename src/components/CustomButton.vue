@@ -57,7 +57,6 @@ export default {
 .form-control:hover {
   background-color: rgb(29, 37, 37);
   color: aqua;
-  text-decoration: none;
 }
 .form-control:focus {
   background-color: rgb(29, 37, 37);
