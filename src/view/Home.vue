@@ -23,10 +23,10 @@ export default {
 
 <style>
 body {
-  background: -webkit-linear-gradient(left, #735cc4, #5caab9);
+  background: -webkit-linear-gradient(left, #292727, #232829);
 }
 .contact-form {
-  background: rgb(255, 255, 255);
+  background: rgb(17, 15, 15);
   margin-top: 10%;
   margin-bottom: 5%;
   width: 50%;
@@ -53,7 +53,7 @@ body {
   margin-bottom: 8%;
   margin-top: -10%;
   text-align: center;
-  color: #0b0e11;
+  color: #c2ccd6;
 }
 .contact-form .btnContact {
   width: 50%;
