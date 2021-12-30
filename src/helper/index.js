@@ -26,7 +26,7 @@ const generateRandomQuestion = (collection, id) => {
 
   const randomQuestion = Math.floor(Math.random() * noOfQuestion);
   userQuestions.add(randomQuestion);
-
+  console.log(userQuestions.has(randomQuestion), userQuestions);
   if (noOfQuestion.size === 0) {
     return null;
   }
