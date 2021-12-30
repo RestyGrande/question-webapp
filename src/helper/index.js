@@ -16,21 +16,22 @@ const filterQuestionByCategory = (src, id) => {
   return src.filter((col) => col.categoryId === id);
 };
 const generateRandomQuestion = (collection, id) => {
-  const userQuestions = [];
+  const userQuestions = new Set();
   const question = {
     ...data[collection].filter((col) => col.categoryId === id),
   };
   const noOfQuestion = data[collection].filter(
     (col) => col.categoryId === id
   ).length;
-  // const randomQuestion = chance.integer({ min: 0, max: noOfQuestion });
+
   const randomQuestion = Math.floor(Math.random() * noOfQuestion);
-  userQuestions.push(randomQuestion);
-  if (noOfQuestion === 0) {
+  userQuestions.add(randomQuestion);
+  console.log(userQuestions.has(randomQuestion), userQuestions);
+  if (noOfQuestion.size === 0) {
     return null;
   }
 
-  if (userQuestions.includes(randomQuestion)) {
+  if (userQuestions.has(randomQuestion)) {
     const newRandomQuestion = Math.floor(Math.random() * noOfQuestion);
     return question[newRandomQuestion].id;
   }
