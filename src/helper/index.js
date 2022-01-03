@@ -15,6 +15,7 @@ const filterByCategory = (collection, id) =>
 const filterQuestionByCategory = (src, id) => {
   return src.filter((col) => col.categoryId === id);
 };
+
 const generateRandomQuestion = (collection, id) => {
   const userQuestions = new Set();
   const question = {
@@ -23,10 +24,20 @@ const generateRandomQuestion = (collection, id) => {
   const noOfQuestion = data[collection].filter(
     (col) => col.categoryId === id
   ).length;
-
   const randomQuestion = Math.floor(Math.random() * noOfQuestion);
   userQuestions.add(randomQuestion);
-  console.log(userQuestions.has(randomQuestion), userQuestions);
+  const randomQuestionList = new Set();
+  do {
+    const randomQ = Math.floor(Math.random() * noOfQuestion);
+    randomQuestionList.add(randomQ);
+  } while (randomQuestionList.size !== 10);
+
+  console.log(
+    Array.from(randomQuestionList).map((r) => {
+      return question[r].id;
+    })
+  );
+  // console.log(userQuestions.has(randomQuestion), userQuestions);
   if (noOfQuestion.size === 0) {
     return null;
   }
@@ -38,7 +49,10 @@ const generateRandomQuestion = (collection, id) => {
   return question[randomQuestion].id;
 };
 
-const reset = () => (data.exam = []);
+const reset = () => {
+  // userQuestions.clear();
+  data.exam = [];
+};
 const pushItemInCollection = (
   collection,
   questionId,
