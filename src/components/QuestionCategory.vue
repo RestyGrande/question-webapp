@@ -1,6 +1,6 @@
 <template>
   <div>
-    <custom-header title="Categories" />
+    <custom-header title="Categores" />
     <div v-for="(category, index) in categories" :key="index">
       <custom-button :categories="category"></custom-button>
     </div>
