@@ -15,9 +15,8 @@ const filterByCategory = (collection, id) =>
 const filterQuestionByCategory = (src, id) => {
   return src.filter((col) => col.categoryId === id);
 };
-
+const userQuestions = new Set();
 const generateRandomQuestion = (collection, id) => {
-  const userQuestions = new Set();
   const question = {
     ...data[collection].filter((col) => col.categoryId === id),
   };
@@ -50,7 +49,8 @@ const generateRandomQuestion = (collection, id) => {
 };
 
 const reset = () => {
-  // userQuestions.clear();
+  console.clear();
+  userQuestions.clear();
   data.exam = [];
 };
 const pushItemInCollection = (
